@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started working as a software engineer at ASML, Veldhoven. I will be building the worlds most complicated robot.
+I started working as a software engineer at ASML, Veldhoven.
